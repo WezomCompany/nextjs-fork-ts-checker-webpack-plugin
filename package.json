@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-fork-ts-checker-webpack-plugin",
+  "name": "@wezom/nextjs-fork-ts-checker-webpack-plugin",
   "version": "0.1.0",
   "description": "Wrapper over the ForkTsCheckerWebpackPlugin",
   "main": "lib/index.js",

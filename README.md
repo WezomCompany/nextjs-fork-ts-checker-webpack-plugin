@@ -1,4 +1,4 @@
-# nextjs-fork-ts-checker-webpack-plugin
+# @wezom/nextjs-fork-ts-checker-webpack-plugin
 
 [![NPM version badge](https://img.shields.io/npm/v/nextjs-fork-ts-checker-webpack-plugin.svg)](https://www.npmjs.com/package/nextjs-fork-ts-checker-webpack-plugin)
 [![NPM license badge](https://img.shields.io/npm/l/nextjs-fork-ts-checker-webpack-plugin.svg)](https://www.npmjs.com/package/nextjs-fork-ts-checker-webpack-plugin)
