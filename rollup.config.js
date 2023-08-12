@@ -32,5 +32,5 @@ export default {
 		},
 	],
 	plugins: [typescript(), terser()],
-	external: [],
+	external: ['fork-ts-checker-webpack-plugin'],
 };

@@ -60,5 +60,8 @@
     "rollup": "^3.27.0",
     "typescript": "^5.1.6",
     "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "fork-ts-checker-webpack-plugin": "^8.0.0"
   }
 }
